@@ -1,0 +1,12 @@
+C:\Users\Maple Yang\Documents\Visual Studio 2015\Projects\C4Training\BeY_exercise1\bin\Debug\BeY_exercise1.exe.config
+C:\Users\Maple Yang\Documents\Visual Studio 2015\Projects\C4Training\BeY_exercise1\bin\Debug\BeY_exercise1.exe
+C:\Users\Maple Yang\Documents\Visual Studio 2015\Projects\C4Training\BeY_exercise1\bin\Debug\BeY_exercise1.pdb
+C:\Users\Maple Yang\Documents\Visual Studio 2015\Projects\C4Training\BeY_exercise1\obj\Debug\BeY_exercise1.exe
+C:\Users\Maple Yang\Documents\Visual Studio 2015\Projects\C4Training\BeY_exercise1\obj\Debug\BeY_exercise1.pdb
+C:\Users\Maple Yang\Documents\Visual Studio 2015\Projects\C4Training\BeY_exercise1\obj\Debug\Beyond_exercise1.csprojResolveAssemblyReference.cache
+D:\MySolution\C4Training\C4Training\BeY_exercise1\bin\Debug\BeY_exercise1.exe.config
+D:\MySolution\C4Training\C4Training\BeY_exercise1\obj\Debug\BeY_exercise1.exe
+D:\MySolution\C4Training\C4Training\BeY_exercise1\obj\Debug\BeY_exercise1.pdb
+D:\MySolution\C4Training\C4Training\BeY_exercise1\bin\Debug\BeY_exercise1.exe
+D:\MySolution\C4Training\C4Training\BeY_exercise1\bin\Debug\BeY_exercise1.pdb
+D:\MySolution\C4Training\C4Training\BeY_exercise1\obj\Debug\Beyond_exercise1.csprojResolveAssemblyReference.cache

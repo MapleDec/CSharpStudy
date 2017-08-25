@@ -1,0 +1,12 @@
+c:\users\maple yang\documents\visual studio 2015\Projects\C4Training\BasicKnowled\bin\Debug\BasicKnowled.exe.config
+C:\Users\Maple Yang\documents\visual studio 2015\Projects\C4Training\BasicKnowled\bin\Debug\BasicKnowled.exe
+C:\Users\Maple Yang\documents\visual studio 2015\Projects\C4Training\BasicKnowled\bin\Debug\BasicKnowled.pdb
+C:\Users\Maple Yang\documents\visual studio 2015\Projects\C4Training\BasicKnowled\obj\Debug\BasicKnowled.exe
+C:\Users\Maple Yang\documents\visual studio 2015\Projects\C4Training\BasicKnowled\obj\Debug\BasicKnowled.pdb
+C:\Users\Maple Yang\Documents\Visual Studio 2015\Projects\C4Training\BasicKnowled\obj\Debug\BasicKnowled.csprojResolveAssemblyReference.cache
+D:\MySolution\C4Training\C4Training\BasicKnowled\bin\Debug\BasicKnowled.exe.config
+D:\MySolution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.exe
+D:\MySolution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.pdb
+D:\MySolution\C4Training\C4Training\BasicKnowled\bin\Debug\BasicKnowled.exe
+D:\MySolution\C4Training\C4Training\BasicKnowled\bin\Debug\BasicKnowled.pdb
+D:\MySolution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.csprojResolveAssemblyReference.cache
