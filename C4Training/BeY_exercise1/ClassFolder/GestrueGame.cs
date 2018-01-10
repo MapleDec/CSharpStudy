@@ -27,7 +27,7 @@ namespace Beyond_exercise1
         }
         public static void PlayGame()
         {
-            Console.WriteLine("------Welcome to the game!------ \n------Only input stone/shears/cloth------");
+            Console.WriteLine("------Welcome join the game!------ \n------Only input stone/shears/cloth------");
             //StartGame();
             judgePlay();
         }
@@ -37,8 +37,7 @@ namespace Beyond_exercise1
         /// </summary>
         private static void judgePlay()
         {
-            Console.WriteLine("Aou you sure play game ? Play/No?");
-            Console.WriteLine();
+            Console.WriteLine("Aou you sure play game ? Play/No?");            
             while (true)
             {
                 string switchGame = Console.ReadLine();

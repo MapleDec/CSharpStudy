@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BasicKnowled</RootNamespace>
     <AssemblyName>BasicKnowled</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -47,6 +48,7 @@
     <Compile Include="ClassFolder\DelegateEvent.cs" />
     <Compile Include="ClassFolder\ClassInheritance.cs" />
     <Compile Include="ClassFolder\ClassImprove.cs" />
+    <Compile Include="ClassFolder\InterfaceKnowled.cs" />
     <Compile Include="ClassFolder\MethodEg.cs" />
     <Compile Include="ClassFolder\StructEnumArray.cs" />
     <Compile Include="ClassFolder\YiChang.cs" />

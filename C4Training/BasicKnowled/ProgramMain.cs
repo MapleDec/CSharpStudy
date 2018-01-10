@@ -1,6 +1,7 @@
 ﻿using System;
 using BasicKnowled.ClassFolder;
 
+
 namespace BasicKnowled
 {
     class ProgramMain
@@ -16,9 +17,8 @@ namespace BasicKnowled
             //YiChang map = new YiChang();
             //map.test1();
             //StructEnumEventApp();
-            FenGeXian();
- 
             DelegateEventApp();
+            FenGeXian();
 
             Console.ReadKey();
         }
@@ -31,7 +31,6 @@ namespace BasicKnowled
             eg00.MathCaulate();
             //Console.WriteLine("{0}", eg00.MathCaulate);
 
-
             AcessMemberOut eg01 = new AcessMemberOut();
             eg01.chinses = 98;
             eg01.math = 93;
@@ -39,7 +38,6 @@ namespace BasicKnowled
 
             Console.WriteLine("All grade is {0}", eg01.SumGrade());
             Console.WriteLine("Average grade is {0}", eg01.GetAverage());
-
             Console.ReadKey();
         }
 
@@ -105,8 +103,6 @@ namespace BasicKnowled
             Human ren2 = new Human();
             ren2.LoveFood();
 
-            //
-
         }
 
         private static void StructEnumEventApp()
@@ -119,10 +115,45 @@ namespace BasicKnowled
         }
         private static void DelegateEventApp()
         {
-            DelegateSource Bron = new DelegateSource();
-            Bron.TestDelegate();
+            //DelegateSource Bron = new DelegateSource();
+            //Bron.TestDelegate();
+            Console.WriteLine("This test delegate");
+            MrMing.DoThings();
+            Console.WriteLine("This test delegate.");
+            PublisherHokage publisher = new PublisherHokage();
+            // 事件主猜测感兴趣的订阅者，小杨
+            publisher.OnPublish += new PublisherHokage.PublishEventHandle(MrYang.Recive);
+            // 另一种事件注册方式
+            //publisher.OnPublish += MrMing.Receive;
+            // 发布者触发火影事件
+            publisher.issue();
+
+            Console.WriteLine("This test event.");
+            // 实例化一个出版社
+            PublishersEvents publisherAnk = new PublishersEvents();
+            Console.WriteLine("Input released magazine:");
+            string magazineName = Console.ReadLine();
+
+            if (magazineName == "Hokage Ninjia")
+            {
+                publisherAnk.Publish += new PublishersEvents.PublishEventHander(MrMi.Receive);
+                publisherAnk.issue("Hokage Ninjia");
+            }
+            else
+            {
+                publisherAnk.Publish += MrZhao.Receive;
+                publisherAnk.issue("Global Times");
+            }
+            Console.ReadKey();
         }
 
+        private static void JieKouApp()
+        {
+            IPlementInterface iSon = new IPlementInterface();
+            iSon.IMyInterfaceMethod();
+            iSon.IParentInterfaceMethod();
+            iSon.IPlementInterfaceMehod();
+        }
         private static void FenGeXian()
         {
             Console.WriteLine("------------------------------");

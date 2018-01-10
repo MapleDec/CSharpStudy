@@ -10,3 +10,11 @@ D:\MySolution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.pdb
 D:\MySolution\C4Training\C4Training\BasicKnowled\bin\Debug\BasicKnowled.exe
 D:\MySolution\C4Training\C4Training\BasicKnowled\bin\Debug\BasicKnowled.pdb
 D:\MySolution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.csprojResolveAssemblyReference.cache
+D:\MySolution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.csproj.CoreCompileInputs.cache
+C:\Users\v-guay\Desktop\Solution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.csprojResolveAssemblyReference.cache
+C:\Users\v-guay\Desktop\Solution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.csproj.CoreCompileInputs.cache
+C:\Users\v-guay\Desktop\Solution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.exe
+C:\Users\v-guay\Desktop\Solution\C4Training\C4Training\BasicKnowled\obj\Debug\BasicKnowled.pdb
+C:\Users\v-guay\Desktop\Solution\C4Training\C4Training\BasicKnowled\bin\Debug\BasicKnowled.exe.config
+C:\Users\v-guay\Desktop\Solution\C4Training\C4Training\BasicKnowled\bin\Debug\BasicKnowled.exe
+C:\Users\v-guay\Desktop\Solution\C4Training\C4Training\BasicKnowled\bin\Debug\BasicKnowled.pdb
