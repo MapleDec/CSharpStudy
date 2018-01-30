@@ -1,0 +1,7 @@
+C:\Users\v-guay\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe.config
+C:\Users\v-guay\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe
+C:\Users\v-guay\source\repos\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.pdb
+C:\Users\v-guay\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csprojResolveAssemblyReference.cache
+C:\Users\v-guay\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\v-guay\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.exe
+C:\Users\v-guay\source\repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.pdb
